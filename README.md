@@ -1,4 +1,4 @@
-# Project Name
+# HR Genie > Human Resources Leave Application
 
 A comprehensive README for the project
 
